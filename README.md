@@ -1,0 +1,2 @@
+# turezure-podcast
+ポッドキャストのサンプルやで
